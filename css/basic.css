@@ -2,7 +2,6 @@
 
 body {
   font-family: "Noto Sans KR", sans-serif;
-  overflow-x: hidden;
 }
 
 .main {
@@ -12,7 +11,7 @@ body {
       rgba(0, 0, 0, 0.6) 80%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url("../img/mainbg.jpg");
+    url("../img/mainBg.jpg");
   background-size: cover;
   background-position: 50%;
 }
